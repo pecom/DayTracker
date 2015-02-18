@@ -9,7 +9,7 @@ eventList = []  #List of my events
 #Defining my functions
 #Empty the file
 def clearNotepad():
-    f = open('My Day.txt', 'r+')
+    f = open('My Day.txt', 'w')
     f.truncate()
     f.close()
 
@@ -22,7 +22,7 @@ def addEvent():
     eventList.append(s)
 
 def finishEvent():
-    f = open('My Day.txt', 'r+')
+    f = open('My Day.txt', 'w')
     nowFinish = time.asctime(time.localtime(time.time()))
     nowFinishTime = time.time()
     timeSpent = round(((nowFinishTime - startTimeSeconds[-1])/60), 0)
