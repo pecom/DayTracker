@@ -1,0 +1,6 @@
+From Thu Feb 19 00:15:33 2015 to Thu Feb 19 00:15:36 2015 I did: y for 3.0 seconds
+From Thu Feb 19 00:15:36 2015 to Thu Feb 19 00:15:38 2015 I did: u for 2.0 seconds
+From Thu Feb 19 00:15:38 2015 to Thu Feb 19 00:15:40 2015 I did: gotta for 2.0 seconds
+From Thu Feb 19 00:15:40 2015 to Thu Feb 19 00:15:41 2015 I did: be for 1.0 seconds
+From Thu Feb 19 00:15:41 2015 to Thu Feb 19 00:15:43 2015 I did: so for 2.0 seconds
+From Thu Feb 19 00:15:43 2015 to Thu Feb 19 00:15:45 2015 I did: rood for 2.0 seconds

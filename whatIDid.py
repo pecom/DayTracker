@@ -2,16 +2,12 @@ import time
 import math
 
 #Init of variables
-f = open('My Day.txt', 'r+')
+f = open('Day Tracker.txt', 'a+')   #Creates the Day Tracker.txt if it doesn't exist, or adds on to it
 startTime = []  #List of the start times for my events
 startTimeSeconds = []
 eventList = []  #List of my events
 
-#Defining my functions
-#Empty the file
-def clearNotepad():
-    f.truncate()
-
+#Defining mah functions
 def addEvent():
     nowStart = time.asctime(time.localtime(time.time()))
     nowStartTime = time.time()
@@ -23,14 +19,17 @@ def addEvent():
 def finishEvent():
     nowFinish = time.asctime(time.localtime(time.time()))
     nowFinishTime = time.time()
-    timeSpent = round(((nowFinishTime - startTimeSeconds[-1])/60), 0)
-    f.write('From ' + startTime[-1] + ' to ' + nowFinish + ' I did: ' + eventList[-1] + ' for ' + str(timeSpent) + ' minutes' + '\n')
+    timeSpentMins = round(((nowFinishTime - startTimeSeconds[-1])/60), 0)
+    timeSpentSeconds = round((nowFinishTime - startTimeSeconds[-1]), 0)
+    if timeSpentMins > 1.0:
+        f.write('From ' + startTime[-1] + ' to ' + nowFinish + ' I did: ' + eventList[-1] + ' for ' + str(timeSpentMins) + ' minutes' + '\n')
+    else:
+        f.write('From ' + startTime[-1] + ' to ' + nowFinish + ' I did: ' + eventList[-1] + ' for ' + str(timeSpentSeconds) + ' seconds' + '\n')
 
 #Runs all the functions in the necessary order and stuff
 def startProg():
     print 'Welcome to Day Tracker!'
     print 'Starting Day Tracker...'
-    clearNotepad()
     whileVar = ''
     while whileVar != 'q':
         addEvent()
@@ -44,4 +43,3 @@ startProg()
 
 #TO-DO: #Add a way to see how much time has been spent on current event
         #Add a way to access the .txt while program is running
-        #Make the program not rewrite the file each time (add on to the last line so it's not a one day thing)
