@@ -2,6 +2,7 @@ import time
 import math
 
 #Init of variables
+f = open('My Day.txt', 'r+')
 startTime = []  #List of the start times for my events
 startTimeSeconds = []
 eventList = []  #List of my events
@@ -9,9 +10,7 @@ eventList = []  #List of my events
 #Defining my functions
 #Empty the file
 def clearNotepad():
-    f = open('My Day.txt', 'w')
     f.truncate()
-    f.close()
 
 def addEvent():
     nowStart = time.asctime(time.localtime(time.time()))
@@ -22,12 +21,10 @@ def addEvent():
     eventList.append(s)
 
 def finishEvent():
-    f = open('My Day.txt', 'w')
     nowFinish = time.asctime(time.localtime(time.time()))
     nowFinishTime = time.time()
     timeSpent = round(((nowFinishTime - startTimeSeconds[-1])/60), 0)
     f.write('From ' + startTime[-1] + ' to ' + nowFinish + ' I did: ' + eventList[-1] + ' for ' + str(timeSpent) + ' minutes' + '\n')
-    f.close()
 
 #Runs all the functions in the necessary order and stuff
 def startProg():
@@ -39,7 +36,12 @@ def startProg():
         addEvent()
         whileVar = raw_input('Press y when finished with event or press q to quit...')
         finishEvent()
+    f.close()
     print 'Thank you for using Day Tracker! Have a nice day!~'
 
 #Starting program
 startProg()
+
+#TO-DO: #Add a way to see how much time has been spent on current event
+        #Add a way to access the .txt while program is running
+        #Make the program not rewrite the file each time (add on to the last line so it's not a one day thing)
