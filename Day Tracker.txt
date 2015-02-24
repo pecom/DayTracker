@@ -1,6 +1,37 @@
-From Thu Feb 19 00:15:33 2015 to Thu Feb 19 00:15:36 2015 I did: y for 3.0 seconds
-From Thu Feb 19 00:15:36 2015 to Thu Feb 19 00:15:38 2015 I did: u for 2.0 seconds
-From Thu Feb 19 00:15:38 2015 to Thu Feb 19 00:15:40 2015 I did: gotta for 2.0 seconds
-From Thu Feb 19 00:15:40 2015 to Thu Feb 19 00:15:41 2015 I did: be for 1.0 seconds
-From Thu Feb 19 00:15:41 2015 to Thu Feb 19 00:15:43 2015 I did: so for 2.0 seconds
-From Thu Feb 19 00:15:43 2015 to Thu Feb 19 00:15:45 2015 I did: rood for 2.0 seconds
+From Thu Feb 19 12:11:40 2015 to Thu Feb 19 12:59:04 2015 I did: Terraria for 47.0 minutes
+From Thu Feb 19 12:59:04 2015 to Thu Feb 19 13:16:24 2015 I did: youtube for 17.0 minutes
+From Thu Feb 19 13:16:24 2015 to Thu Feb 19 13:34:53 2015 I did: SAT for 18.0 minutes
+From Thu Feb 19 13:38:53 2015 to Thu Feb 19 14:17:03 2015 I did: SAT for 38.0 minutes
+From Thu Feb 19 14:17:03 2015 to Thu Feb 19 14:17:28 2015 I did: SAT for 25.0 seconds
+From Thu Feb 19 14:17:28 2015 to Thu Feb 19 14:25:52 2015 I did: Homework for 8.0 minutes
+From Thu Feb 19 14:25:52 2015 to Thu Feb 19 15:00:20 2015 I did: Programming for 34.0 minutes
+From Thu Feb 19 15:00:23 2015 to Thu Feb 19 16:22:50 2015 I did: League for 82.0 minutes
+From Thu Feb 19 16:22:55 2015 to Thu Feb 19 17:18:47 2015 I did: league for 56.0 minutes
+From Thu Feb 19 17:18:47 2015 to Thu Feb 19 17:50:27 2015 I did: lunch for 32.0 minutes
+From Thu Feb 19 17:50:27 2015 to Thu Feb 19 17:56:28 2015 I did: YouTube for 6.0 minutes
+From Thu Feb 19 17:56:28 2015 to Thu Feb 19 19:54:01 2015 I did: SAT for 118.0 minutes
+From Thu Feb 19 19:54:01 2015 to Thu Feb 19 20:56:00 2015 I did: YouTube for 62.0 minutes
+From Sat Feb 21 17:47:09 2015 to Sat Feb 21 19:28:49 2015 I did: League of Legends for 102.0 minutes
+From Sat Feb 21 19:28:49 2015 to Sat Feb 21 20:27:00 2015 I did: homework for 58.0 minutes
+From Sat Feb 21 20:27:00 2015 to Sat Feb 21 20:43:59 2015 I did: dinner for 17.0 minutes
+From Sat Feb 21 20:43:59 2015 to Sat Feb 21 23:02:26 2015 I did: Youtube for 138.0 minutes
+From Sun Feb 22 17:29:19 2015 to Sun Feb 22 19:23:05 2015 I did: APES for 114.0 minutes
+From Sun Feb 22 19:23:05 2015 to Sun Feb 22 19:34:12 2015 I did: Melee for 11.0 minutes
+From Sun Feb 22 19:53:47 2015 to Sun Feb 22 20:57:56 2015 I did: League for 64.0 minutes
+From Sun Feb 22 20:57:56 2015 to Sun Feb 22 21:49:39 2015 I did: YouTube for 52.0 minutes
+From Sun Feb 22 21:49:39 2015 to Mon Feb 23 00:40:40 2015 I did: math for 171.0 minutes
+From Mon Feb 23 16:47:34 2015 to Mon Feb 23 18:27:05 2015 I did: Homework for 100.0 minutes
+From Mon Feb 23 18:27:05 2015 to Mon Feb 23 18:51:15 2015 I did: SAT for 24.0 minutes
+From Mon Feb 23 18:51:15 2015 to Mon Feb 23 19:32:18 2015 I did: League for 41.0 minutes
+From Mon Feb 23 19:32:18 2015 to Mon Feb 23 19:33:22 2015 I did: Math for 64.0 seconds
+From Mon Feb 23 19:33:22 2015 to Mon Feb 23 19:53:01 2015 I did: Youtube for 20.0 minutes
+From Mon Feb 23 19:53:01 2015 to Mon Feb 23 20:13:00 2015 I did: Dinner for 20.0 minutes
+From Mon Feb 23 20:13:00 2015 to Mon Feb 23 20:39:15 2015 I did: Chinese for 26.0 minutes
+From Mon Feb 23 20:39:15 2015 to Mon Feb 23 21:12:05 2015 I did: Youtube for 33.0 minutes
+From Mon Feb 23 21:12:05 2015 to Mon Feb 23 21:25:51 2015 I did: Math for 14.0 minutes
+From Mon Feb 23 21:25:51 2015 to Mon Feb 23 21:28:58 2015 I did: Youtube for 3.0 minutes
+From Mon Feb 23 21:28:58 2015 to Mon Feb 23 22:32:01 2015 I did: Math for 63.0 minutes
+From Mon Feb 23 22:32:01 2015 to Mon Feb 23 23:44:07 2015 I did: Questions for the Week for 72.0 minutes
+From Mon Feb 23 23:44:07 2015 to Tue Feb 24 00:55:09 2015 I did: Math for 71.0 minutes
+From Tue Feb 24 12:24:21 2015 to Tue Feb 24 12:24:28 2015 I did: Test event for 7.0 seconds
+From Tue Feb 24 12:24:28 2015 to Tue Feb 24 12:25:34 2015 I did: Programming for 66.0 seconds
